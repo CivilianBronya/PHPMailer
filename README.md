@@ -21,11 +21,4 @@
 
 通常情况下，你不需要修改这个文件。它是 PHPMailer 库的一部分，当你安装 PHPMailer 时，它已经包含在库中了。
 
-### Markdown 表格
-
-```Markdown
-| 头像 | 名字 | 角色 | GitHub |
-| ---- | ---- | ---- | ------ |
-| ![avatar1](https://github.com/CivilianBronya.png?size=50) | User1 | 项目开发者 | [@username1](https://github.com/CivilianBronya) |
-```
 
