@@ -1,4 +1,5 @@
-# PHPMailer
+
+“”“”# PHPMailer
 ![](https://img.shields.io/badge/license-MIT-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Language](https://img.shields.io/badge/language-php-brightgreen)
@@ -26,3 +27,5 @@
 | 头像 | 名字 | 角色 | GitHub |
 | ---- | ---- | ---- | ------ |
 | ![avatar1](https://github.com/CivilianBronya.png?size=50) | User1 | 项目开发者 | [@username1](https://github.com/CivilianBronya) |
+```
+
