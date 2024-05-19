@@ -39,6 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } catch (Exception $e) {
         echo "邮件发送失败: {$mail->ErrorInfo}";
     }
-}
+} else {
+    echo "非法访问";
 ?>
 <?php
