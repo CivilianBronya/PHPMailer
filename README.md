@@ -1,5 +1,5 @@
 # PHPMailer
-![](https://img.shields.io/badge/license-MIT-blue):emoji:
+![](https://img.shields.io/badge/license-MIT-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow) #静态badge图标
 ![github license](https://img.shields.io/github/license/:user/:repo) #动态连接github仓库的图标
 ![Twitter](https://img.shields.io/twitter/follow/:user? label=Follow) #动态连接twitter账户的图标
