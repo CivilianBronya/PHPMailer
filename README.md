@@ -1,7 +1,6 @@
 # PHPMailer
 ![](https://img.shields.io/badge/license-MIT-blue)
-![License](https://img.shields.io/badge/license-MIT-yellow) #静态badge图标
-![Twitter](https://img.shields.io/twitter/follow/:user? style=social) #采用社交图标
+![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Language](https://img.shields.io/badge/language-php-brightgreen)
 ## 简介
 
