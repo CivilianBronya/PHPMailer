@@ -1,5 +1,5 @@
 
-“”“”# PHPMailer
+# PHPMailer
 ![](https://img.shields.io/badge/license-MIT-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Language](https://img.shields.io/badge/language-php-brightgreen)
