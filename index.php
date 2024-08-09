@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>发送邮件测试</h1>
-<form action="send_email.php" method="post">
+<form action="PHPMailer/public/send_email.php" method="post">
     <label for="to_email">收件人邮箱:</label>
     <input type="email" id="to_email" name="to_email" required><br><br>
 
